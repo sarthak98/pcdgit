@@ -21,7 +21,7 @@
     {
     rr=(-b/(2*a));
     ir=(sqrt(-d))/(2*a);
-    printf("roots are imaginary r1=%f+i%f and r2=%f+i%f",rr,ir,rr,ir);
+    printf("roots are imaginary r1=%f+i%f and r2=%f-i%f",rr,ir,rr,ir);
     }
 
 return 0;
