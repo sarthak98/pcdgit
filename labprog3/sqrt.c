@@ -19,7 +19,7 @@ int main()
     r1=(r1+r2)/2;
     r2=num/r1;
     diff=fabs(r1-r2);
-    printf("r1=%f  r2=%f  diff=%f\n",r1,r2,diff);
+    printf("r1=%f  r2=%f   diff=%f\n",r1,r2,diff);
   }
   printf("square root = %f",r1);
 
