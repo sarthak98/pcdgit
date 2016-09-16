@@ -7,7 +7,7 @@ int main()
 
     float r1,r2,num,diff;
 
-  printf("Enter a no.\n");
+  printf("Enter a number\n");
   scanf("%f",&num);
 
   r1=1;
